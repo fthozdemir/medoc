@@ -89,10 +89,7 @@ public class Node implements MyTreeSet  {
 			return true;
 		}
 		else if(tree.rightchild!=null){
-			// tek sað çocuðu varsa 
-			//temp = new Node();
-			temp=tree.rightchild;
-			tree=temp;
+			
 		}
 	}
 	
